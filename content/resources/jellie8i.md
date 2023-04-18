@@ -12,14 +12,14 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: jellie8i.mp4
-uid: c655e473-14d0-43f6-a470-f9944348d2b6
+uid: 688469e6-653a-4889-8dba-46265a25279f
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/icPHcK_cCF4/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: icPHcK_cCF4
+  youtube_id: ''
 ---
