@@ -15,11 +15,11 @@ title: 18.S190 Lecture 7.mp4
 uid: f17fa9f5-031d-4570-88ca-9430c80823fa
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/_XbBB4SuCOw/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: _XbBB4SuCOw
 ---
