@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/peters-test-site-for-unpbulishing/1tGGQPla-Jiw9IkYgieQD0-U0F8EMh8W7/jellie8p.mp4
+file: /gdrive_uploads/peters-test-site-for-unpbulishing/1aBurqM0pqiIF8yEsr4dF-QIBw57cIEsO/lecture10.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -11,15 +11,15 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: jellie8p.mp4
-uid: 5f55c13e-dc15-40b2-97ca-5162f01651f8
+title: lecture10.mp4
+uid: b7c4e804-9d8c-4dd3-a9a5-fe6d8506a84e
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/LanFNA59fMM/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: LanFNA59fMM
+  youtube_id: ''
 ---
